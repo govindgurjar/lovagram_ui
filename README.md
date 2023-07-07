@@ -1,8 +1,10 @@
 # lovagram_ui
 
 A new Flutter project.
-
 ## Getting Started
+
+<img src="https://github.com/govindgurjar/lovagram_ui/assets/83970520/a8970579-44f1-4bca-83b8-65f1c02ccae4" alt="drawing" width="300"/>
+
 
 This project is a starting point for a Flutter application.
 
